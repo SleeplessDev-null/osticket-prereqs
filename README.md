@@ -70,7 +70,7 @@ Now hold the windows key and press S to open your windows search, type remote de
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/Login%20to%20the%20windows%20vm.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
-when you get logged in make your way to microsoft edge and download the install files for osTicket. once downloaded go to your downloads and extract the files, it can be in the downloads folder. and open the folder:
+when you get logged in make your way to microsoft edge and download the install files for osTicket. once downloaded go to your downloads and extract the files, it can be in the downloads folder. Then open the folder:
 <br />
 <br />
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/osticket%20pre%20install%20files.PNG?raw=true" height="90%" width="80%"  />
