@@ -62,6 +62,19 @@ Once this is done go to virtual machines, click on your VM and on the right copy
 <br />
 <br />
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/Third%20step%201.5.PNG?raw=true" height="90%" width="80%"  />
-
+<br />
+<br />
+Now hold the windows key and press S to open your windows search, type remote desktop, when the window pops up paste the ip address and press connect. Then login with the username and password you set for the VM:
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/Login%20to%20the%20windows%20vm.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+when you get logged in make your way to microsoft edge and download the install files for osTicket. once downloaded go to your downloads and extract the files, it can be in the downloads folder. and open the folder:
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/osticket%20pre%20install%20files.PNG?raw=true" height="90%" width="80%"  />
+<br /> 
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/Pre%20install%20files%20for%20osticket%201.PNG?raw=true" height="90%" width="80%"  />
    
 </p>
