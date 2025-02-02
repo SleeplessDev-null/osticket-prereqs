@@ -35,16 +35,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p align="center">
   First login to Microsoft Azure navigate to the search bar and look for resource group  :
+<br />
+<br />
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/First%20step.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
 Name the resource group and select the region . Make sure to remember the region:
+<br />
+<br />
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/first%20.1.5%20step.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
 Navigate to the search bar and search for virtual machines. create a azure virtual machine, select the resource group you just created, name the VM, select the region, then the image which should be windows 10:
+<br />
+<br />
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/Second%20step%201.5.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
+after that set the username and password and don't forget to tick the box at the bottom. For this virtual machine you can keep everything default and review + create :
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/second%20step2.0.PNG?raw=true" height="90%" width="80%"  />
+
    
 </p>
