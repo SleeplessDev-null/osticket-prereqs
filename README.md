@@ -56,6 +56,12 @@ after that set the username and password and don't forget to tick the box at the
 <br />
 <br />
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/second%20step2.0.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+Once this is done go to virtual machines, click on your VM and on the right copy the public ip address:
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/Third%20step%201.5.PNG?raw=true" height="90%" width="80%"  />
 
    
 </p>
