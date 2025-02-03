@@ -108,6 +108,27 @@ Now go back to the install files and extract php-7.3.8-nts-Win32-VC15-x86.zip in
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/8th%20step.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/8th%20step%201.5.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+Next Install the VC_redist.x86 like with the last ones leave everything default and install:
+<br />
+<br />  
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/9th%20step.PNG?raw=true" height="90%" width="80%"  /> 
+<br />
+<br />  
+Now install Mysql-5.5.62-win32.msi with this one follow the steps in the screenshots, NOTE: when you get to Service name, and password to use root only if this is for learning purposes. If you are using this for work make sure the service name and password is something you can remember and is unique.
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/10th%20step.PNG?raw=true" height="90%" width="80%"  />
+<br />  
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/10th%201.5%20step.PNG?raw=true" height="90%" width="80%"  />
+<br />  
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/10th%20step%202.0.PNG?raw=true" height="90%" width="80%"  />
+<br />  
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/10th%20step%202.5.PNG?raw=true" height="90%" width="80%"  />
+<br />  
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/10th%20step%203.0.PNG?raw=true" height="90%" width="80%"  />   
+  
 
   
 </p>
