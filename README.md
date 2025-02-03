@@ -219,8 +219,20 @@ After that click add, then select a principal, and in "Enter object name to sele
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/23rd%20step%20.2.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/23rd%20step%20.3.PNG?raw=true" height="90%" width="80%"  />
-<br />  
+<br />
+<br /> 
+Now go back to the osTicket webpage, set up the help desk passwords, usernames, and emails. You don't have to use a real email but remember the passwords and usernames:
+<br />
+<br />   
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/24th%20step%20.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/25th%20step%20.PNG?raw=true" height="90%" width="80%"  />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/25th%20step%20.1.PNG?raw=true" height="90%" width="80%"  />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/26th%20step%20.PNG?raw=true" height="90%" width="80%"  />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/27th%20step%20.PNG?raw=true" height="90%" width="80%"  />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/28th%20step.PNG?raw=true" height="90%" width="80%"  />
+  
 
 
 
