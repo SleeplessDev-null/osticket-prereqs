@@ -142,12 +142,13 @@ within IIS look for the php manager:
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/12th%20step.PNG?raw=true" height="50%" width="40%"  />
 <br />
 <br />
-Click on php manager and register new version of php:
+Click on php manager and register new php version:
 <br />
 <br />  
-<img src=<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/11th%20step.PNG?raw=true" height="90%" width="80%"  />" height="90%" width="80%"  /> 
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/13th%20step%20.PNG?raw=true" height="90%" width="80%"  />
 <br />
-<br />  
+<br />
+  
   
   
 
