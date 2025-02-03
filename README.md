@@ -148,6 +148,17 @@ Click on php manager and register new php version:
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/13th%20step%20.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
+Now when it ask you to provide the path, you will link it to the php-cgi.exe inside of the PHP folder you made earlier:
+<br />
+<br />  
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/14th%20step.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+Once this is done go back to the IIS interface and on the right there should be a button to stop, start and restart. click stop then start to refresh everything:
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/15th%20step.PNG?raw=true" height="50%" width="40%"  />
+
   
   
   
