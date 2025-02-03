@@ -127,7 +127,20 @@ Now install Mysql-5.5.62-win32.msi with this one follow the steps in the screens
 <br />  
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/10th%20step%202.5.PNG?raw=true" height="90%" width="80%"  />
 <br />  
-<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/10th%20step%203.0.PNG?raw=true" height="90%" width="80%"  />   
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/10th%20step%203.0.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+Once its installed go to windows search and type IIS and run as admin:
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/11th%20step.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+within IIS look for the php manager:
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/12th%20step.PNG?raw=true" height="50%" width="40%"  />  
+  
   
 
   
