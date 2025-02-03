@@ -158,6 +158,16 @@ Once this is done go back to the IIS interface and on the right there should be 
 <br />
 <br />
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/15th%20step.PNG?raw=true" height="50%" width="40%"  />
+<br />
+<br />
+Make your way back to the install files and extract the osTicket-v1.15.8.zip, then go to your windows directory and follow this path c:\inetpub\wwwroot. Move the upload folder into the wwwroot folder and rename it to osTicket, make its spelled just like I have it  : 
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/16th%20step.PNG?raw=true" height="90%" width="80%"  />
+<br /> 
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/17th%20step%20.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
 
   
   
