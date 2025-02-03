@@ -168,6 +168,29 @@ Make your way back to the install files and extract the osTicket-v1.15.8.zip, th
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/17th%20step%20.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
+Now make your way back to the IIS interface and look on the left, follow this path in the connections tab, click on osTicket then look for browse 80 on the right side and click on it:
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/18th%20step%20.PNG?raw=true" height="90%" width="80%"  />
+<br />  
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/18th%20step%20.1.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+The webpage for osTicket should look like this.: 
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/19th%20step.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />  
+Some of the extensions need to be enabled so back in IIS we need to go to PHP manager and click on enable extension at the bottom. Enable the following , php_imap.dll, php_intl.dll, and php_opcache.dll:
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/20th%20step%201.PNG?raw=true" height="90%" width="80%"  />
+<br />  
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/20th%20step.PNG?raw=true" height="90%" width="80%"  />
+
+
+
 
   
   
