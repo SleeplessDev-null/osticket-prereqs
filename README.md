@@ -82,4 +82,26 @@ Now press and hold the windows key and press S to open up windows search and typ
 <br />
 <br />
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/Fourth%20step%20enable%20cgi.PNG?raw=true" height="90%" width="80%"  /> 
+<br />
+<br />
+After this go back to the install files and run the installer for php manager keep everything default and install:
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/5th%20step.PNG?raw=true" height="90%" width="80%"  />  
+<br />
+<br />
+Now install IIS URL Rewrite Module keep everything default and install:
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/6th%20step.PNG?raw=true" height="90%" width="80%"  />  
+<br />
+<br />
+After this make your way to the your windows directory and make a "PHP" folder, make sure its capped and in the main directory like in the screenshot :
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/7TH%20step.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+
+  
 </p>
