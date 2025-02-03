@@ -257,7 +257,7 @@ To clean up a some files go back to your www.root folder and look for the osTick
 
 
 
-<h2>This concludes the installation of osTicket. I hope the guide was simple and understandable </h2>
+<h2>This concludes the installation of osTicket. I hope the guide was simple and understandable but of course there is more to setting up osTicket so this guide will be split into 3 parts.  </h2>
   
 
 
