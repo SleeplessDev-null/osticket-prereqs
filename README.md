@@ -188,6 +188,37 @@ Some of the extensions need to be enabled so back in IIS we need to go to PHP ma
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/20th%20step%201.PNG?raw=true" height="90%" width="80%"  />
 <br />  
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/20th%20step.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+The osTicket page should now have the needed extensions enabled:
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/21st%20step.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+Now that this is done navigate back to your windows directory and follow this path C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php, inside of the include folder rename ost-sampleconfig.php to ost-config.php:
+<br />
+<br />  
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/22%20nd%20step.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+Now right click on ost-config.php and select properties, go to the security tab and click on advance , disable inheritance, and "Remove all inherited permissions from this object":
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/23rd%20step.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/23rd%20.1%20step.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+After that click add, then select a principal, and in "Enter object name to select" type everyone. press ok and make sure all of the boxes are checked. Note you wouldn't put everyone in a real world use, Just for this guide:
+<br />
+<br />  
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/23rd%20step%20.2.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/23rd%20step%20.3.PNG?raw=true" height="90%" width="80%"  />
+<br />  
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/24th%20step%20.PNG?raw=true" height="90%" width="80%"  />
+
 
 
 
