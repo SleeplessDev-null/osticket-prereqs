@@ -139,7 +139,15 @@ Once its installed go to windows search and type IIS and run as admin:
 within IIS look for the php manager:
 <br />
 <br />
-<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/12th%20step.PNG?raw=true" height="50%" width="40%"  />  
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/12th%20step.PNG?raw=true" height="50%" width="40%"  />
+<br />
+<br />
+Click on php manager and register new version of php:
+<br />
+<br />  
+<img src=<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/11th%20step.PNG?raw=true" height="90%" width="80%"  />" height="90%" width="80%"  /> 
+<br />
+<br />  
   
   
 
