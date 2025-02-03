@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This Guide outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -29,6 +29,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 -  Internet Information Services (IIS)
 -  Rewrite Module
 -  Link to the Installation files https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download
+
+
+<h2>This a guide on how to install osTicket. Files included above. I hope to provide you with a pretty easy to follow guide and after this you will have a understanding on how to install it.  </h2>
 
 
 <h2>Installation Steps</h2>
