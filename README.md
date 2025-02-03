@@ -221,17 +221,43 @@ After that click add, then select a principal, and in "Enter object name to sele
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/23rd%20step%20.3.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br /> 
-Now go back to the osTicket webpage, set up the help desk passwords, usernames, and emails. You don't have to use a real email but remember the passwords and usernames:
+Now go back to the osTicket webpage, set up the help desk passwords, usernames, and emails. You don't have to use a real email but remember the passwords and usernames. Don't click the install button yet:
 <br />
 <br />   
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/24th%20step%20.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
+Now head back to installation folder for osTicket and run the installer for Heidi SQL. Once its installed let it launch :
+<br />
+<br />  
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/25th%20step%20.PNG?raw=true" height="90%" width="80%"  />
+<br />   
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/25th%20step%20.1.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />  
+when it opens click new at the bottom and create a new session and name it osTicket. On the right for user and password would put root and press open: 
+<br />
+<br />  
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/26th%20step%20.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+Now back in the osTicket webpage you can now put in the rest of the information and click install. and now you osTicket is installed:
+<br />
+<br />  
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/27th%20step%20.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+To clean up a some files go back to your www.root folder and look for the osTicket folder. Inside delete the setup folder and you are done.
+<br />
+<br />  
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/28th%20step.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+
+
+
+
+<h2>This concludes the installation of osTicket. I hope the guide was simple and understandable </h2>
   
 
 
