@@ -76,5 +76,10 @@ when you get logged in make your way to microsoft edge and download the install 
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/osticket%20pre%20install%20files.PNG?raw=true" height="90%" width="80%"  />
 <br /> 
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/Pre%20install%20files%20for%20osticket%201.PNG?raw=true" height="90%" width="80%"  />
-   
+<br />
+<br />  
+Now press and hold the windows key and press S to open up windows search and type control panel. click uninstall a program  and on the top left click on "Turn Windows features on or off " tick the boxes from the screen shot: 
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/Fourth%20step%20enable%20cgi.PNG?raw=true" height="90%" width="80%"  /> 
 </p>
