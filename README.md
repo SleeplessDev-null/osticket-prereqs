@@ -247,7 +247,7 @@ Now back in the osTicket webpage you can now put in the rest of the information 
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/27th%20step%20.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
-To clean up a some files go back to your www.root folder and look for the osTicket folder. Inside delete the setup folder and you are done.
+To clean up a some files go back to your wwwroot folder and look for the osTicket folder. Inside delete the setup folder and you are done.
 <br />
 <br />  
 <img src="https://github.com/SleeplessDev-null/osticket-prereqs/blob/main/Png/28th%20step.PNG?raw=true" height="90%" width="80%"  />
